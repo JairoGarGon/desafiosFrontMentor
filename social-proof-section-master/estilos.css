@@ -1,0 +1,108 @@
+body{
+    background-color: white;
+    /* background-image: url('./design/desktop-design.jpg'); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: spartan, sans-serif;
+}
+.titulos{
+    float: left;
+    width: 600px;
+}
+.titulo{
+    display: flex;
+    margin:0px 0 0 220px;
+    font-size: 5em;
+    font-weight: 700;
+    font-family: spartan, sans-serif;
+    color: rgb(96, 24, 138);
+    width: 550px;
+}
+.description{
+    display:flex;
+    font-size: 24px;
+    width: 550px;
+    margin: 5px 210px;
+    font-weight: 600;
+    color: rgba(132, 40, 185, 0.521);
+}
+.barras{
+    font-size: 24px;
+    color: rgba(92, 25, 131, 0.521);
+    text-align: center;
+}
+.barra1{
+    width: 500px; 
+    height: 50px; 
+    margin:100px 940px 10px ;
+    border-radius: 5px;
+    padding-top: 15px;
+    background-color: rgba(164, 52, 230, 0.137);    
+}
+.barra2{
+    width: 500px; 
+    height: 50px; 
+    margin:10px 990px 10px;
+    border-radius: 5px;
+    padding-top: 15px;
+    background-color: rgba(164, 52, 230, 0.137);
+}
+.barra3{
+    width: 500px;
+    height: 50px; 
+    border-radius: 5px;
+    margin:10px 1040px 10px;
+    padding-top: 15px;
+    background-color: rgba(164, 52, 230, 0.137);
+}
+.estrellas{
+    width: 150px;
+    float: left;
+    padding-left: 20px;
+}
+
+.cajatarjetas{
+    display: inline-flex;
+    width: 80vw;
+    height: 40vh;
+    margin-left:200px;
+}
+.cards{
+    width: 430px;
+    height: 250px;
+    background-color: rgb(96, 24, 138);
+    border-radius: 10px;
+    box-shadow: 5px 5px 7px;
+}
+.titulocard{
+    font-size: 22px;
+    color: white ;
+    text-align: center;
+    margin: 50px auto 20px;
+}
+.subtitulocard{
+    font-size: 20px;
+    color: violet;
+    text-align: center;
+}
+.foto_perfil{
+    float: left;
+    margin: 40px 0 0 40px;
+    border-radius: 50%;
+}
+.descripcion{
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.767);
+}
+
+.card1{
+    margin-top: 100px;
+}
+.card2{
+    margin: 50px 30px 0 30px;
+}
+.asturix{
+    font-size: 32px;
+    text-align: center;
+}
+
